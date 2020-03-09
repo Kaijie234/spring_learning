@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springLearning01_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/springLearning01_factory/pom.xml" />
+        <option value="$PROJECT_DIR$/springLearning01_03spring/pom.xml" />
+        <option value="$PROJECT_DIR$/springLearning01_04bean/pom.xml" />
+        <option value="$PROJECT_DIR$/springLearning01_05di/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

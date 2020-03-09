@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springLearning01_02factory" />
+        <module name="springLearning01_03spring" />
+        <module name="springLearning01_04bean" />
+        <module name="springLearning01_05di" />
+        <module name="springLearning01_factory" />
+        <module name="springLearning01_jdbc" />
+      </profile>
+      <profile name="Annotation profile for springLearning01_jdbc" enabled="true">
+        <sourceOutputDir name="../springLearning01_jdbc/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springLearning01_jdbc/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springLearning01_01jdbc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springLearning01_01jdbc" target="1.5" />
+      <module name="springLearning01_02factory" target="1.5" />
+      <module name="springLearning01_03spring" target="1.5" />
+      <module name="springLearning01_04bean" target="1.5" />
+      <module name="springLearning01_05di" target="1.5" />
+      <module name="springLearning01_factory" target="1.5" />
+      <module name="springLearning01_jdbc" target="1.5" />
+      <module name="springLearning_spring" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
