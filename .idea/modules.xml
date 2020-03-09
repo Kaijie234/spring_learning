@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springLearning01_01jdbc/springLearning01_01jdbc.iml" filepath="$PROJECT_DIR$/springLearning01_01jdbc/springLearning01_01jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning01_02factory/springLearning01_02factory.iml" filepath="$PROJECT_DIR$/springLearning01_02factory/springLearning01_02factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning01_03spring/springLearning01_03spring.iml" filepath="$PROJECT_DIR$/springLearning01_03spring/springLearning01_03spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning01_04bean/springLearning01_04bean.iml" filepath="$PROJECT_DIR$/springLearning01_04bean/springLearning01_04bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning01_05di/springLearning01_05di.iml" filepath="$PROJECT_DIR$/springLearning01_05di/springLearning01_05di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_learning.iml" filepath="$PROJECT_DIR$/.idea/spring_learning.iml" />
+    </modules>
+  </component>
+</project>
