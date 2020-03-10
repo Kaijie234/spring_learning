@@ -23,6 +23,7 @@ public class JdbcDemo1 {
     public static void main(String[] args) throws Exception {
         // 1.注册驱动
 //        DriverManager.registerDriver(new com.mysql.jdbc.Driver());
+        // 使用反射加载对象
         Class.forName("com.mysql.jdbc.Driver");
         // 2.获取连接
         Connection conn = DriverManager.getConnection("jdbc:mysql:///easy_spring", "root", "root");

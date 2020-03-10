@@ -8,6 +8,10 @@
         <option value="$PROJECT_DIR$/springLearning01_03spring/pom.xml" />
         <option value="$PROJECT_DIR$/springLearning01_04bean/pom.xml" />
         <option value="$PROJECT_DIR$/springLearning01_05di/pom.xml" />
+        <option value="$PROJECT_DIR$/springLearning02_01anno_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/springLearning02_02account_xmlioc/pom.xml" />
+        <option value="$PROJECT_DIR$/springLearning02_03account_annoioc/pom.xml" />
+        <option value="$PROJECT_DIR$/springLearning02_04account_annoioc_withoutxml/pom.xml" />
       </list>
     </option>
   </component>
