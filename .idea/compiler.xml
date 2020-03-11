@@ -16,6 +16,11 @@
         <module name="springLearning02_02account_xmlioc" />
         <module name="springLearning02_03account_annoioc" />
         <module name="springLearning02_04account_annoioc_withoutxml" />
+        <module name="springLearning03_01account" />
+        <module name="springLearning03_02proxy" />
+        <module name="springLearning03_03springAOP" />
+        <module name="springLearning03_04adviceType" />
+        <module name="springLearning03_05annotationAOP" />
       </profile>
       <profile name="Annotation profile for springLearning01_jdbc" enabled="true">
         <sourceOutputDir name="../springLearning01_jdbc/target/generated-sources/annotations" />
@@ -36,6 +41,11 @@
       <module name="springLearning02_02account_xmlioc" target="1.5" />
       <module name="springLearning02_03account_annoioc" target="1.5" />
       <module name="springLearning02_04account_annoioc_withoutxml" target="1.5" />
+      <module name="springLearning03_01account" target="1.5" />
+      <module name="springLearning03_02proxy" target="1.5" />
+      <module name="springLearning03_03springAOP" target="1.5" />
+      <module name="springLearning03_04adviceType" target="1.5" />
+      <module name="springLearning03_05annotationAOP" target="1.5" />
       <module name="springLearning_spring" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -11,6 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/springLearning02_02account_xmlioc/springLearning02_02account_xmlioc.iml" filepath="$PROJECT_DIR$/springLearning02_02account_xmlioc/springLearning02_02account_xmlioc.iml" />
       <module fileurl="file://$PROJECT_DIR$/springLearning02_03account_annoioc/springLearning02_03account_annoioc.iml" filepath="$PROJECT_DIR$/springLearning02_03account_annoioc/springLearning02_03account_annoioc.iml" />
       <module fileurl="file://$PROJECT_DIR$/springLearning02_04account_annoioc_withoutxml/springLearning02_04account_annoioc_withoutxml.iml" filepath="$PROJECT_DIR$/springLearning02_04account_annoioc_withoutxml/springLearning02_04account_annoioc_withoutxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning03_01account/springLearning03_01account.iml" filepath="$PROJECT_DIR$/springLearning03_01account/springLearning03_01account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning03_02proxy/springLearning03_02proxy.iml" filepath="$PROJECT_DIR$/springLearning03_02proxy/springLearning03_02proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning03_03springAOP/springLearning03_03springAOP.iml" filepath="$PROJECT_DIR$/springLearning03_03springAOP/springLearning03_03springAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning03_04adviceType/springLearning03_04adviceType.iml" filepath="$PROJECT_DIR$/springLearning03_04adviceType/springLearning03_04adviceType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springLearning03_05annotationAOP/springLearning03_05annotationAOP.iml" filepath="$PROJECT_DIR$/springLearning03_05annotationAOP/springLearning03_05annotationAOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring_learning.iml" filepath="$PROJECT_DIR$/.idea/spring_learning.iml" />
     </modules>
   </component>
